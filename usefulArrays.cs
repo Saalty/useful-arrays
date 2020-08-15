@@ -4,6 +4,8 @@ using System.Collections.Generic;
 
 namespace isXander
 {
+    // I don't think I had heard of a list at this point.
+    
     public static class Arrays
     {
         public static T[] RemoveAt<T>(this T[] source, int index)
